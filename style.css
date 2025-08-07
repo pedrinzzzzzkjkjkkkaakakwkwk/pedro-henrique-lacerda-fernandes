@@ -30,3 +30,18 @@ video-box {
   font-size: 13px;
   color: #e0dfdf;
 }  
+header{
+ background-color: #2a2c39;
+ color:#bdc3c7
+ font-family:arial
+text-align:center
+height:100px
+margin 0:
+border:hone
+width:100%
+display:flex:
+align-itens:center
+justify-content:center
+}
+html,body{
+ margin:0;
